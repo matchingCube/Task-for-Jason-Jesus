@@ -1,0 +1,12 @@
+{
+    "/css/app.css": "/css/app.css",
+    "/js/core.js": "/js/core.js",
+    "/js/auth.js": "/js/auth.js",
+    "/js/dashboard.js": "/js/dashboard.js",
+    "/js/highchart-total-miles-week.js": "/js/highchart-total-miles-week.js",
+    "/js/highchart-miles-week-driver.js": "/js/highchart-miles-week-driver.js",
+    "/js/highchart-mpg-week-vehicle.js": "/js/highchart-mpg-week-vehicle.js",
+    "/js/highchart-total-fuelcost-week.js": "/js/highchart-total-fuelcost-week.js",
+    "/js/highchart-total-revenue-week.js": "/js/highchart-total-revenue-week.js",
+    "/js/check-st.js": "/js/check-st.js"
+}
